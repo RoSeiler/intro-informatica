@@ -1,0 +1,35 @@
+Aye@DESKTOP-LCK5F4V MINGW64 ~/Desktop (master)
+$ mkdir informes
+
+Aye@DESKTOP-LCK5F4V MINGW64 ~/Desktop (master)
+$ cd informes/
+
+Aye@DESKTOP-LCK5F4V MINGW64 ~/Desktop/informes (master)
+$ touch informeAnual.xls
+
+Aye@DESKTOP-LCK5F4V MINGW64 ~/Desktop/informes (master)
+$ ls
+informeAnual.xls
+
+Aye@DESKTOP-LCK5F4V MINGW64 ~/Desktop/informes (master)
+$ mkdir auditoria
+
+Aye@DESKTOP-LCK5F4V MINGW64 ~/Desktop/informes (master)
+$ touch auditoria.xls
+
+Aye@DESKTOP-LCK5F4V MINGW64 ~/Desktop/informes (master)
+$ touch reporteConsolidado.xls
+
+Aye@DESKTOP-LCK5F4V MINGW64 ~/Desktop/informes (master)
+$ ls
+auditoria/  auditoria.xls  informeAnual.xls  reporteConsolidado.xls
+
+Aye@DESKTOP-LCK5F4V MINGW64 ~/Desktop/informes (master)
+$ mv auditoria.xls auditoria
+
+Aye@DESKTOP-LCK5F4V MINGW64 ~/Desktop/informes (master)
+$ cd auditoria
+
+Aye@DESKTOP-LCK5F4V MINGW64 ~/Desktop/informes/auditoria (master)
+$ ls
+auditoria.xls
